@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name:RIZWAN T
 
-### Register Number:
+### Register Number:212222040134
 
 ```python
 # Define RNN Model
